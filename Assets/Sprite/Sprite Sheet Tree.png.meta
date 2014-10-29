@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: d50cd80b064119a43a2d39a7b979fd0a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite Sheet Tree
+    21300002: Sprite Sheet Tree_0
+    21300004: Sprite Sheet Tree_1
+    21300006: Sprite Sheet Tree_2
+    21300008: Sprite Sheet Tree_3
+    21300010: Sprite Sheet Tree_4
+    21300012: Sprite Sheet Tree_5
+    21300014: Sprite Sheet Tree_6
+    21300016: Sprite Sheet Tree_7
+    21300018: Sprite Sheet Tree_8
+    21300020: Sprite Sheet Tree_9
+    21300022: Sprite Sheet Tree_10
+    21300024: Sprite Sheet Tree_11
+    21300026: Sprite Sheet Tree_12
+    21300028: Sprite Sheet Tree_13
+    21300030: Sprite Sheet Tree_14
+    21300032: Sprite Sheet Tree_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Sheet Tree_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 200
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 141
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 141
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 196
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 211
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 207
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 197
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 197
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 61
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 14
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 14
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4
+        width: 142
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet Tree_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 7
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

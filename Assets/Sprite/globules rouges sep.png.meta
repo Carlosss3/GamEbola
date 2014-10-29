@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 25984bafefa41b24fb84c5df16c76bfc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: globules rouges sep
+    21300002: globules rouges sep_0
+    21300004: globules rouges sep_1
+    21300006: globules rouges sep_2
+    21300008: globules rouges sep_3
+    21300010: globules rouges sep_4
+    21300012: globules rouges sep_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: globules rouges sep_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 448
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: globules rouges sep_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 433
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: globules rouges sep_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 455
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: globules rouges sep_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: globules rouges sep_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 279
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: globules rouges sep_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
